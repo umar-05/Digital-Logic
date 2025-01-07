@@ -32,7 +32,10 @@
 
 ### Module 9: Shift Register
 
+---
 
+The Digital Logic course has helped me understand the basics of how computers work. I learned about binary numbers, Boolean algebra, and logic gates, which are the building blocks of digital systems.
 
+Designing circuits, like those used in calculators or memory systems, was challenging but very interesting. It was rewarding to see how these concepts are used in real-world applications.
 
-In this course, I learned the basics of how computers function and its building blocks. I also got to learn how everyday machines work and gained a deeper understanding.
+This course has improved my problem-solving skills and given me a strong foundation to build on in future subjects, especially those related to computer hardware and system design.
