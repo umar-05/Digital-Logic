@@ -31,3 +31,8 @@
 ---
 
 ### Module 9: Shift Register
+
+
+
+
+In this course, I learned the basics of how computers function and its building blocks. I also got to learn how everyday machines work and gained a deeper understanding.
